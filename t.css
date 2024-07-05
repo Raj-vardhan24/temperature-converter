@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-image: url(https://energytheory.com/wp-content/uploads/2023/01/Depositphotos_242052964_XL.jpg);
 }
 
 body{
@@ -10,7 +11,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background-color: rgb(34,107,96);
-    background-image: url(https://energytheory.com/wp-content/uploads/2023/01/Depositphotos_242052964_XL.jpg);
+    
     background-repeat: no-repeat;
     backface-visibility: visible;
     background-size: 100% ;
